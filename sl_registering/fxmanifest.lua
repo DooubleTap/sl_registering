@@ -5,8 +5,7 @@ author 'Spicy'
 version '0.0.1'
 
 shared_scripts {
-    '@ox_lib/init.lua',
-    'config.lua'
+    '@ox_lib/init.lua'
 }
 
 client_scripts {
@@ -17,3 +16,5 @@ server_scripts {
 	'@oxmysql/lib/MySQL.lua',
 	'server.lua'
 }
+
+dependency "lb-phone"
