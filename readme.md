@@ -1,7 +1,7 @@
 #Dependency
 [Qb-core](https://github.com/qbcore-framework/qb-core)
 [Ox_Lib](https://github.com/overextended/ox_lib)
-[Lb-phone](https://lbscripts.com)
+[Lb-tablet](https://lbscripts.com)
 [oxmysql](https://github.com/overextended/oxmysql)
 
 #Installation
