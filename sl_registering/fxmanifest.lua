@@ -9,3 +9,8 @@ server_scripts {
 	'config.lua',
 	'server/*.lua',
 }
+
+dependencies {
+	'lb-tablet',
+	'ox_inventory'
+}
